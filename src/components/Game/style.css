@@ -1,0 +1,21 @@
+button{
+     background-color: coral;
+     color: blanchedalmond;
+     font-size: 20px;
+     border: 0px;
+     padding: 6px;
+     margin: 2px;
+}
+.game-board-wrap{
+    display: table;
+    margin: auto;
+    
+}
+.moves{
+    width: 300px;
+}
+.moves li{
+    list-style: none;
+    display: inline;
+}
+
